@@ -111,7 +111,8 @@ int main(int argc, char **argv, char **envp) {
     printf("Testando insercao de %d elementos...\n", N);
     fila0 = NULL;
     for (i = 0; i < N; i++) {
-        assert(queue_size((queue_t*) fila0) == i);
+        
+        assert(queue_size((queue_t*) fila0) == i);        
         queue_append((queue_t **) & fila0, (queue_t*) & item[i]);
         assert(fila_correta(fila0));
     }

@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=queueproject
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/queueproject
+CND_ARTIFACT_NAME_Debug=bibliotecafilas
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/bibliotecafilas
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=queueproject.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/queueproject.tar
+CND_PACKAGE_NAME_Debug=bibliotecafilas.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/bibliotecafilas.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=queueproject
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/queueproject
+CND_ARTIFACT_NAME_Release=bibliotecafilas
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/bibliotecafilas
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=queueproject.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/queueproject.tar
+CND_PACKAGE_NAME_Release=bibliotecafilas.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/bibliotecafilas.tar
 #
 # include compiler specific variables
 #
